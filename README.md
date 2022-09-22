@@ -15,4 +15,4 @@ Optional feature:
 Stack:
 •	Spring boot
 •	Spring Data JPA
-•	PostgreSQL
+•	MySQL
